@@ -1,0 +1,6 @@
+*.exe
+*.zip
+.vscode
+
+#Configurações para compilar em C
+!.vscode/*.json
